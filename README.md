@@ -36,7 +36,7 @@ Fill out the content of the `using_until` method to `puts` the desired phrase, "
 
 def Wingardium_Leviosa
   count = 6
-  while count < 10
+  while count <= 10
     puts "Wingardium Leviosa"
  count += 1 
  end
