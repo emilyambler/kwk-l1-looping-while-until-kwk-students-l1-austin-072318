@@ -42,3 +42,12 @@ def Wingardium_Leviosa
  end
 End
 
+
+def cupid_shuffle
+  count = 6
+  until count = 10
+       puts "Wingardium Leviosa"
+ count += 1 
+ end
+end
+
