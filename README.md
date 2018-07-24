@@ -38,7 +38,7 @@ def Wingardium_Leviosa
   count = 6
   while count <= 10
     puts "Wingardium Leviosa"
- count += 1 
+    count += 1 
  end
 End
 
@@ -46,8 +46,8 @@ End
 def cupid_shuffle
   count = 6
   until count = 10
-       puts "Wingardium Leviosa"
- count += 1 
+     puts "Wingardium Leviosa"
+     count += 1 
  end
 end
 
