@@ -34,8 +34,8 @@ Fill out the content of the `using_until` method to `puts` the desired phrase, "
 
 
 
-def Wingardium Leviosa
-  count = 0
+def Wingardium_Leviosa
+  count = 6
   
   while count < 10
     puts "to the right, to the right, to the right, to the right"
